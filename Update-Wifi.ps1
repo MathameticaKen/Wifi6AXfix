@@ -2,7 +2,7 @@
 	.NOTES
 	===========================================================================
 	 Created on:   	4/7/2022 1:50 PM
-	 Created by:   	MathematicaKen
+	 Created by:   	MathameticaKen
 	 Filename:     	Update-WiFi.ps1
 	===========================================================================
 	.DESCRIPTION
